@@ -2,6 +2,10 @@
 * [Scenegraphs](#scenegraphs-ecs)
 * [Renderers](#renderers)
 
+## General purpose
+
+- [sx](https://github.com/septag/sx) Portable base library for C programmers, tailored for performance and simplicity
+
 ## Texture Baking
 
 - [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool. A fast and simple tool to bake your high-poly mesh details to textures.
