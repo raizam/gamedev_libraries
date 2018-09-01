@@ -1,5 +1,6 @@
-# awesome_gfx
-A collection of open source projects for low level graphics dev
+* [Texture Backing](#texture-baking)
+* [Scenegraphs](#scenegraphs-ecs)
+* [Renderers](#renderers)
 
 ## Texture Baking
 
@@ -7,7 +8,7 @@ A collection of open source projects for low level graphics dev
 - [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) AwesomeBump generate normal, height, specular or ambient occlusion textures from a single image
 - [cmft](https://github.com/dariomanesku/cmft), [cmftStudio](https://github.com/dariomanesku/cmftStudio) Cross-platform open-source command-line cubemap filtering tool
 
-## Scenegraphs
+## Scenegraphs / ECS
 
 - [libc3](https://github.com/buserror/libc3) Lightweight C Scene Graph Library
 
