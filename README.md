@@ -13,6 +13,10 @@
 - [libc3](https://github.com/buserror/libc3) Lightweight C Scene Graph Library
 - [entt](https://github.com/skypjack/entt)  a fast and reliable entity-component system (ECS) and much more
 
+## Threading
+
+- [deboost.context](https://github.com/septag/deboost.context)"Deboostified" version of boost.context (coroutines), Plain and simple C API for context switching. Easy build on multiple platforms.
+
 ## Renderers
 
 - [bgfx](https://github.com/bkaradzic/bgfx) Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
