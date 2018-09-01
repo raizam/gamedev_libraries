@@ -11,6 +11,7 @@
 ## Scenegraphs / ECS
 
 - [libc3](https://github.com/buserror/libc3) Lightweight C Scene Graph Library
+- [entt](https://github.com/skypjack/entt)  a fast and reliable entity-component system (ECS) and much more
 
 ## Renderers
 
