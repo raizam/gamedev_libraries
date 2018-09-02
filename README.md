@@ -6,6 +6,13 @@
 
 - [sx](https://github.com/septag/sx) Portable base library for C programmers, tailored for performance and simplicity
 
+## Math
+
+- [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM)
+- [cglm](https://github.com/recp/cglm) Optimized OpenGL/Graphics Math (glm) for C
+- [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
+- [mathc](https://github.com/ferreiradaselva/mathc) Pure C math library for 2D and 3D programming
+
 ## Texture Baking
 
 - [Fornos](https://github.com/caosdoar/Fornos) GPU Texture Baking Tool. A fast and simple tool to bake your high-poly mesh details to textures.
@@ -21,10 +28,6 @@
 
 - [deboost.context](https://github.com/septag/deboost.context)"Deboostified" version of boost.context (coroutines), Plain and simple C API for context switching. Easy build on multiple platforms.
 
-## Math
-
-- [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM)
-- [cglm](https://github.com/recp/cglm) Optimized OpenGL/Graphics Math (glm) for C
 
 
 ## Renderers
