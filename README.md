@@ -42,6 +42,8 @@
 ## Threading
 
 - [deboost.context](https://github.com/septag/deboost.context)"Deboostified" version of boost.context (coroutines), Plain and simple C API for context switching. Easy build on multiple platforms.
+- [SergeyMakeev/TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler) Multithreaded task scheduler experiments
+- [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) C++ and C multithreading task scheduler
 
 ## Physics and Collision
 
