@@ -6,6 +6,8 @@
 
 - [sx](https://github.com/septag/sx) Portable base library for C programmers, tailored for performance and simplicity
 - [sc](https://github.com/rhoot/sc) - [sp](https://github.com/rhoot/sp) Cross platform co-routine library exposed through a minimal C API
+- [stb](https://github.com/nothings/stb) stb single-file public domain libraries for C/C++
+- [cute](https://github.com/RandyGaul/cute_headers) One-file C/C++ libraries with no dependencies, primarily used for games 
 
 ## Math
 
@@ -39,4 +41,3 @@
 
 - [bgfx](https://github.com/bkaradzic/bgfx) Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [filament](https://github.com/google/filament) Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
-- [oryol](https://github.com/floooh/oryol) A small, portable and extensible C++ 3D coding framework
