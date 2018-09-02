@@ -21,6 +21,12 @@
 
 - [deboost.context](https://github.com/septag/deboost.context)"Deboostified" version of boost.context (coroutines), Plain and simple C API for context switching. Easy build on multiple platforms.
 
+## Math
+
+- [glm](https://github.com/g-truc/glm) OpenGL Mathematics (GLM)
+- [cglm](https://github.com/recp/cglm) Optimized OpenGL/Graphics Math (glm) for C
+
+
 ## Renderers
 
 - [bgfx](https://github.com/bkaradzic/bgfx) Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
