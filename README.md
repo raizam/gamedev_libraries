@@ -1,5 +1,11 @@
+* [General purpose](#general-purpose)
+* [Math](#math)
+* [Meshes](#meshes)
 * [Texture Backing](#texture-baking)
 * [Scenegraphs](#scenegraphs-ecs)
+* [Animation](#animation)
+* [Threading](#threading)
+* [Physics and Collision](#physics-and-collision)
 * [Renderers](#renderers)
 
 ## General purpose
