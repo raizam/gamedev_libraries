@@ -22,7 +22,7 @@
 ## Meshes
 - [OpenFBX](https://github.com/nem0/OpenFBX) Lightweight open source FBX importer 
 - [tinyobjloader](https://github.com/syoyo/tinyobjloader) Tiny but powerful single file wavefront obj loader 
-- [tinygltfloader](https://github.com/syoyo/tinygltfloader)Header only C++ Tiny glTF loader. 
+- [tinygltfloader](https://github.com/syoyo/tinygltfloader) Header only C++ Tiny glTF loader. 
 
 ## Texture Baking
 
