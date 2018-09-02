@@ -24,6 +24,7 @@
 - [recp/cglm](https://github.com/recp/cglm) - Optimized OpenGL/Graphics Math (glm) for C
 - [google/mathfu](https://github.com/google/mathfu) - C++ math library developed primarily for games focused on simplicity and efficiency.
 - [ferreiradaselva/mathc](https://github.com/ferreiradaselva/mathc) - Pure C math library for 2D and 3D programming
+- [demianmnave/CML](https://github.com/demianmnave/CML) The Configurable Math Library http://cmldev.net
 
 ## Meshes
 - [nem0/OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer 
