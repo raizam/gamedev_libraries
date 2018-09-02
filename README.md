@@ -8,6 +8,9 @@
 - [sc](https://github.com/rhoot/sc) - [sp](https://github.com/rhoot/sp) Cross platform co-routine library exposed through a minimal C API
 - [stb](https://github.com/nothings/stb) stb single-file public domain libraries for C/C++
 - [cute](https://github.com/RandyGaul/cute_headers) One-file C/C++ libraries with no dependencies, primarily used for games 
+- [mmx](https://github.com/vurtun/mmx) single header libraries for C/C++ 
+- [zpl](https://github.com/zpl-c/zpl) Your C99 Powerkit 
+- [rjm](https://github.com/rmitton/rjm)Various single-file C libraries. 
 
 ## Math
 
@@ -15,6 +18,11 @@
 - [cglm](https://github.com/recp/cglm) Optimized OpenGL/Graphics Math (glm) for C
 - [mathfu](https://github.com/google/mathfu) C++ math library developed primarily for games focused on simplicity and efficiency. http://google.github.io/mathfu
 - [mathc](https://github.com/ferreiradaselva/mathc) Pure C math library for 2D and 3D programming
+
+## Meshes
+- [OpenFBX](https://github.com/nem0/OpenFBX) Lightweight open source FBX importer 
+- [tinyobjloader](https://github.com/syoyo/tinyobjloader) Tiny but powerful single file wavefront obj loader 
+- [tinygltfloader](https://github.com/syoyo/tinygltfloader)Header only C++ Tiny glTF loader. 
 
 ## Texture Baking
 
@@ -35,7 +43,11 @@
 
 - [deboost.context](https://github.com/septag/deboost.context)"Deboostified" version of boost.context (coroutines), Plain and simple C API for context switching. Easy build on multiple platforms.
 
+## Physics and Collision
 
+- [gjk.c](https://github.com/kroitor/gjk.c) Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
+- [nudge](https://github.com/rasmusbarr/nudge) A small data-oriented and SIMD-optimized 3D rigid body physics library.
+- [gpu sph fluids](https://github.com/erwincoumans/fluids_v3) GPU SPH fluids 
 
 ## Renderers
 
