@@ -5,6 +5,7 @@
 ## General purpose
 
 - [sx](https://github.com/septag/sx) Portable base library for C programmers, tailored for performance and simplicity
+- [sc](https://github.com/rhoot/sc) - [sp](https://github.com/rhoot/sp) Cross platform co-routine library exposed through a minimal C API
 
 ## Math
 
@@ -23,6 +24,10 @@
 
 - [libc3](https://github.com/buserror/libc3) Lightweight C Scene Graph Library
 - [entt](https://github.com/skypjack/entt)  a fast and reliable entity-component system (ECS) and much more
+
+## Animation
+
+- [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) Open source c++ skeletal animation library and toolset
 
 ## Threading
 
