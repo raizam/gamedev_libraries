@@ -46,6 +46,7 @@ Small C/C++ libraries for low level real-time graphics
 - [syoyo/tinygltfloader](https://github.com/syoyo/tinygltfloader) - Header only C++ Tiny glTF loader. 
 - [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
 - [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library
+- [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes indexed meshes more GPU-friendly
 
 ## Texture Baking
 
@@ -117,7 +118,7 @@ Small C/C++ libraries for low level real-time graphics
 - [libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes
 - [pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
 
-
+- [opengex](http://opengex.org/) - Scene format specification
 
 
 
