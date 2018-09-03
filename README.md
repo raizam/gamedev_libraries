@@ -31,11 +31,22 @@ Small C/C++ libraries for low level real-time graphics
 - [google/mathfu](https://github.com/google/mathfu) - C++ math library developed primarily for games focused on simplicity and efficiency.
 - [ferreiradaselva/mathc](https://github.com/ferreiradaselva/mathc) - Pure C math library for 2D and 3D programming
 - [demianmnave/CML](https://github.com/demianmnave/CML) The Configurable Math Library http://cmldev.net
+- [sce_vectormath](https://github.com/erwincoumans/sce_vectormath) - Vector math library
+- [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) - Imath
+- [CML](https://github.com/demianmnave/CML) - The Configurable Math Library
+
+## Geometry
+
+- [MathGeoLib](https://github.com/juj/MathGeoLib) - library for linear algebra and geometry manipulation for computer graphics
+- [sseculling](https://github.com/nsf/sseculling) - SSE Frustum Culling Demo
+- [Cullminator9000](https://github.com/Alan-FGR/Cullminator9000) - The fastest culler ever
 
 ## Meshes
 - [nem0/OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer 
 - [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader) - Tiny but powerful single file wavefront obj loader 
 - [syoyo/tinygltfloader](https://github.com/syoyo/tinygltfloader) - Header only C++ Tiny glTF loader. 
+- [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
+- [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library
 
 ## Texture Baking
 
@@ -64,9 +75,57 @@ Small C/C++ libraries for low level real-time graphics
 - [gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
 - [nudge](https://github.com/rasmusbarr/nudge) - A small data-oriented and SIMD-optimized 3D rigid body physics library.
 - [gpu sph fluids](https://github.com/erwincoumans/fluids_v3) - GPU SPH fluids 
+- [phyx](https://github.com/zeux/phyx) - 2D physics engine with SoA/SIMD optimizations
+- [ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) - CPU and GPU implementations of a particle-based physics
 
 ## Renderers
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+- [fastuidraw](https://github.com/intel/fastuidraw) - library that provides a higher performance Canvas interface
+
+## Texture Packing
+
+- [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
+- [thekla_atlas](https://github.com/Thekla/thekla_atlas) - Atlas Generation Tool
+
+## Sound
+
+- [openal-soft](https://github.com/kcat/openal-soft) - software implementation of the OpenAL 3D audio API
+- [soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
+
+## Pathfinding and Navigation
+
+- [jps](https://github.com/fgenesis/jps) - Jump Point Search, public domain, single .h (Super fast pathfinding on uniform grids)
+- [astar-algorithm-cpp](https://github.com/justinhj/astar-algorithm-cpp) - Implementations of the A* algorithm in C++ and C#
+- [MicroPather](https://github.com/leethomason/MicroPather) - A* solver (astar or a-star) written in platform independent C++
+- [recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
+
+## Input
+
+- [SDL](https://github.com/SDL-mirror/SDL) - Simple DirectMedia Layer
+- [glfw](https://github.com/glfw/glfw) - A multi-platform library
+- [gainput](https://github.com/jkuhlmann/gainput) - C++ input library for games
+
+## Misc
+
+- [easy_profiler](https://github.com/yse/easy_profiler) - Lightweight profiler library for c++
+- [spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
+- [color](https://github.com/dmilos/color) - C++ library thats implemets class color
+- [libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes
+- [pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
