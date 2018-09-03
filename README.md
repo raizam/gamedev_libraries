@@ -41,12 +41,16 @@ Small C/C++ libraries for low level real-time graphics
 - [Cullminator9000](https://github.com/Alan-FGR/Cullminator9000) - The fastest culler ever
 
 ## Meshes
-- [nem0/OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer 
-- [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader) - Tiny but powerful single file wavefront obj loader 
-- [syoyo/tinygltfloader](https://github.com/syoyo/tinygltfloader) - Header only C++ Tiny glTF loader. 
+
 - [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
 - [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library
 - [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes indexed meshes more GPU-friendly
+
+## Assets Importers/Exporters
+- [assimp](https://github.com/assimp/assimp) - Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure
+- [nem0/OpenFBX](https://github.com/nem0/OpenFBX) - Lightweight open source FBX importer 
+- [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader) - Tiny but powerful single file wavefront obj loader 
+- [syoyo/tinygltfloader](https://github.com/syoyo/tinygltfloader) - Header only C++ Tiny glTF loader. 
 
 ## Texture Baking
 
