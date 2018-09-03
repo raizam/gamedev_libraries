@@ -33,7 +33,6 @@ Small C/C++ libraries for low level real-time graphics
 - [demianmnave/CML](https://github.com/demianmnave/CML) The Configurable Math Library http://cmldev.net
 - [sce_vectormath](https://github.com/erwincoumans/sce_vectormath) - Vector math library
 - [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) - Imath
-- [CML](https://github.com/demianmnave/CML) - The Configurable Math Library
 
 ## Geometry
 
@@ -77,6 +76,8 @@ Small C/C++ libraries for low level real-time graphics
 - [gpu sph fluids](https://github.com/erwincoumans/fluids_v3) - GPU SPH fluids 
 - [phyx](https://github.com/zeux/phyx) - 2D physics engine with SoA/SIMD optimizations
 - [ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) - CPU and GPU implementations of a particle-based physics
+- [PlayRho](https://github.com/louis-langholtz/PlayRho) - Real-time oriented physics engine and library that's currently best suited for 2D games
+- [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
 
 ## Renderers
 
@@ -115,6 +116,9 @@ Small C/C++ libraries for low level real-time graphics
 - [color](https://github.com/dmilos/color) - C++ library thats implemets class color
 - [libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes
 - [pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
+
+
+
 
 
 
