@@ -36,6 +36,7 @@ Small C/C++ libraries for low level real-time graphics
 
 ## Geometry
 
+- [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library
 - [MathGeoLib](https://github.com/juj/MathGeoLib) - library for linear algebra and geometry manipulation for computer graphics
 - [sseculling](https://github.com/nsf/sseculling) - SSE Frustum Culling Demo
 - [Cullminator9000](https://github.com/Alan-FGR/Cullminator9000) - The fastest culler ever
