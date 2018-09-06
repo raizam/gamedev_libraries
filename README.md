@@ -6,7 +6,7 @@ Small C/C++ libraries for low level real-time graphics
 
 * [General purpose](#general-purpose)
 * [Math](#math)
-* [Meshes](#meshes)
+* [Meshes / geometry](#meshes-geometry)
 * [Texture Backing](#texture-baking)
 * [Scenegraphs](#scenegraphs-ecs)
 * [Animation](#animation)
@@ -34,17 +34,13 @@ Small C/C++ libraries for low level real-time graphics
 - [sce_vectormath](https://github.com/erwincoumans/sce_vectormath) - Vector math library
 - [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) - Imath
 
-## Geometry
+## Meshes / Geometry
 
 - [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library
 - [MathGeoLib](https://github.com/juj/MathGeoLib) - library for linear algebra and geometry manipulation for computer graphics
 - [sseculling](https://github.com/nsf/sseculling) - SSE Frustum Culling Demo
 - [Cullminator9000](https://github.com/Alan-FGR/Cullminator9000) - The fastest culler ever
-
-## Meshes
-
 - [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved
-- [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library
 - [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes indexed meshes more GPU-friendly
 
 ## Assets Importers/Exporters
@@ -122,7 +118,6 @@ Small C/C++ libraries for low level real-time graphics
 - [color](https://github.com/dmilos/color) - C++ library thats implemets class color
 - [libmorton](https://github.com/Forceflow/libmorton) - C++ header-only library with methods to efficiently encode/decode Morton codes
 - [pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
-
 - [opengex](http://opengex.org/) - Scene format specification
 
 
