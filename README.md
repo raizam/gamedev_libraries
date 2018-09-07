@@ -80,6 +80,7 @@ Small C/C++ libraries for low level real-time graphics
 - [ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) - CPU and GPU implementations of a particle-based physics
 - [PlayRho](https://github.com/louis-langholtz/PlayRho) - Real-time oriented physics engine and library that's currently best suited for 2D games
 - [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
+- [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids
 
 ## Renderers
 
