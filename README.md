@@ -59,6 +59,8 @@ Small C/C++ libraries for low level real-time graphics
 
 - [buserror/libc3](https://github.com/buserror/libc3) - Lightweight C Scene Graph Library
 - [skypjack/entt](https://github.com/skypjack/entt) - A fast and reliable entity-component system (ECS) and much more
+- [redxdev/ECS](https://github.com/redxdev/ECS) - C++ single-header entity component system library
+- [alecthomas/entityx](https://github.com/alecthomas/entityx) - EntityX - A fast, type-safe C++ Entity-Component system
 
 ## Animation
 
