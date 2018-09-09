@@ -36,6 +36,7 @@ Small C/C++ libraries for low level real-time graphics
 - [demianmnave/CML](https://github.com/demianmnave/CML) The Configurable Math Library http://cmldev.net
 - [sce_vectormath](https://github.com/erwincoumans/sce_vectormath) - Vector math library
 - [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) - Imath
+- [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math) - A simple math library for games and computer graphics.
 
 ## Meshes / Geometry
 
