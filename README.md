@@ -18,7 +18,6 @@ Small C/C++ libraries for low level real-time graphics
 ## General purpose
 
 - [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library
-- [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [septag/sx](https://github.com/septag/sx) - Portable base library for C programmers, tailored for performance and simplicity
 - [rhoot/sp](https://github.com/rhoot/sp) - Public domain string formatting micro-library for C++, based on python-style format strings
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
@@ -92,9 +91,12 @@ Small C/C++ libraries for low level real-time graphics
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [Kode/Kore](https://github.com/Kode/Kore) - Modern low level game library and hardware abstraction
+- [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+- [pplux/px](https://github.com/pplux/px) - Single header C++ Libraries for Thread Scheduling, Rendering
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 - [fastuidraw](https://github.com/intel/fastuidraw) - library that provides a higher performance Canvas interface
+
 
 ## Texture Packing
 
