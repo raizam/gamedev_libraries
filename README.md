@@ -17,6 +17,8 @@ Small C/C++ libraries for low level real-time graphics
 
 ## General purpose
 
+- [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library
+- [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [septag/sx](https://github.com/septag/sx) - Portable base library for C programmers, tailored for performance and simplicity
 - [rhoot/sp](https://github.com/rhoot/sp) - Public domain string formatting micro-library for C++, based on python-style format strings
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
