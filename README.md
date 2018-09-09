@@ -90,8 +90,9 @@ Small C/C++ libraries for low level real-time graphics
 ## Renderers
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-- [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
+- [Kode/Kore](https://github.com/Kode/Kore) - Modern low level game library and hardware abstraction
 - [floooh/oryol](https://github.com/floooh/oryol) - A small, portable and extensible C++ 3D coding framework
+- [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 - [fastuidraw](https://github.com/intel/fastuidraw) - library that provides a higher performance Canvas interface
 
 ## Texture Packing
