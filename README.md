@@ -13,6 +13,7 @@ Small C/C++ libraries for low level real-time graphics
 * [Threading](#threading)
 * [Physics and Collision](#physics-and-collision)
 * [Renderers](#renderers)
+* [Networking](#networking)
 
 ## General purpose
 
@@ -113,6 +114,10 @@ Small C/C++ libraries for low level real-time graphics
 - [SDL](https://github.com/SDL-mirror/SDL) - Simple DirectMedia Layer
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library
 - [gainput](https://github.com/jkuhlmann/gainput) - C++ input library for games
+
+## Networking
+
+- [librg](https://github.com/librg/librg) - Pure C99 game networking library
 
 ## Misc
 
