@@ -106,6 +106,10 @@ Small C/C++ libraries for low level real-time graphics
 - [openal-soft](https://github.com/kcat/openal-soft) - software implementation of the OpenAL 3D audio API
 - [soloud](https://github.com/jarikomppa/soloud) - Free, easy, portable audio engine for games
 
+## UI
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
+
 ## Pathfinding and Navigation
 
 - [jps](https://github.com/fgenesis/jps) - Jump Point Search, public domain, single .h (Super fast pathfinding on uniform grids)
