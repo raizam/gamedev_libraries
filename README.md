@@ -129,6 +129,8 @@ Small C/C++ libraries for low level real-time graphics
 
 - [librg](https://github.com/librg/librg) - Pure C99 game networking library
 - [bkaradzic/bnet](https://github.com/bkaradzic/bnet#bnet---message-oriented-networking-library) - Message oriented networking library using TCP transport
+- [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
+
 
 ## Misc
 
