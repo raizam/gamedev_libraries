@@ -128,6 +128,7 @@ Small C/C++ libraries for low level real-time graphics
 ## Networking
 
 - [librg](https://github.com/librg/librg) - Pure C99 game networking library
+- [bkaradzic/bnet](https://github.com/bkaradzic/bnet#bnet---message-oriented-networking-library) - Message oriented networking library using TCP transport
 
 ## Misc
 
