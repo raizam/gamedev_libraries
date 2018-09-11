@@ -4,17 +4,27 @@ A Collection of small C/C++ libraries for game development
 
 ![header](https://raw.githubusercontent.com/raizam/junkyard_gfx/master/header.jpg)
 
-* [General purpose](#general-purpose)
-* [Math](#math)
-* [Meshes / geometry](#meshes-geometry)
-* [Texture Backing](#texture-baking)
-* [Scenegraphs](#scenegraphs-ecs)
-* [Animation](#animation)
-* [Threading](#threading)
-* [Physics and Collision](#physics-and-collision)
-* [Renderers](#renderers)
-* [Networking](#networking)
-
+* [System](#system)
+  * [Base](#base)
+  * [Math](#math)
+  * [Windowing/Inputs](#windowing/inputs)
+  * [Threading](#threading)
+  * [Sound](#sound)
+  * [Networking](#networking)
+* [Engine Components](#engine-components)
+  * [Rendering](#rendering)
+  * [UI](#ui)
+  * [Scenegraph](#scenegraph)
+  * [ECS](#ecs)
+  * [Animation](#animation)
+  * [Physics](#physics)
+  * [Pathfinding](#pathfinding)
+* [Asset Management](#asset-management)
+  * [Meshes/Geometry](#meshes-geometry)
+  * [Importers/Exporters](#importers-exporters)
+  * [Texture Baking/Packing](#texture-baking-packing)
+* [Misc](#misc)
+  
 ## System
 ### Base
 
@@ -38,7 +48,7 @@ A Collection of small C/C++ libraries for game development
 - [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) - Imath
 - [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math) - A simple math library for games and computer graphics.
 
-### Windowing/Input
+### Windowing/Inputs
 
 - [SDL](https://github.com/SDL-mirror/SDL) - Simple DirectMedia Layer
 - [glfw](https://github.com/glfw/glfw) - A multi-platform library
@@ -76,6 +86,11 @@ A Collection of small C/C++ libraries for game development
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 - [fastuidraw](https://github.com/intel/fastuidraw) - library that provides a higher performance Canvas interface
 
+### UI
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
+
 ### Scenegraph
 - [buserror/libc3](https://github.com/buserror/libc3) - Lightweight C Scene Graph Library
 
@@ -87,7 +102,7 @@ A Collection of small C/C++ libraries for game development
 ### Animation
 - [guillaumeblanc/ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation library and toolset
 
-### Physics and Collision
+### Physics
 
 - [gjk.c](https://github.com/kroitor/gjk.c) - Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
 - [nudge](https://github.com/rasmusbarr/nudge) - A small data-oriented and SIMD-optimized 3D rigid body physics library.
@@ -98,12 +113,8 @@ A Collection of small C/C++ libraries for game development
 - [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
 - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids
 
-### UI
 
-- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
-- [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
-
-### Pathfinding and Navigation
+### Pathfinding
 
 - [jps](https://github.com/fgenesis/jps) - Jump Point Search, public domain, single .h (Super fast pathfinding on uniform grids)
 - [astar-algorithm-cpp](https://github.com/justinhj/astar-algorithm-cpp) - Implementations of the A* algorithm in C++ and C#
