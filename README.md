@@ -4,6 +4,8 @@ A Collection of small C/C++ libraries for game development
 
 ![header](https://raw.githubusercontent.com/raizam/junkyard_gfx/master/header.jpg)
 
+
+
 * [System](#system)
   * [Base](#base)
   * [Math](#math)
@@ -28,25 +30,31 @@ A Collection of small C/C++ libraries for game development
 ## System
 ### Base
 
-- [bkaradzic/bx](https://github.com/bkaradzic/bx) - Base library
-- [septag/sx](https://github.com/septag/sx) - Portable base library for C programmers, tailored for performance and simplicity
-- [rhoot/sp](https://github.com/rhoot/sp) - Public domain string formatting micro-library for C++, based on python-style format strings
-- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
-- [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) - One-file C/C++ libraries with no dependencies, primarily used for games 
-- [vurtun/mmx](https://github.com/vurtun/mmx) - single header libraries for C/C++ 
-- [zpl-c/zpl](https://github.com/zpl-c/zpl) - Your C99 Powerkit 
-- [rmitton/rjm](https://github.com/rmitton/rjm) - Various single-file C libraries. 
+
+
+Lib           | Title
+------------- | -------------
+[bkaradzic/bx](https://github.com/bkaradzic/bx) | Base library
+[septag/sx](https://github.com/septag/sx) | Portable base library for C programmers, tailored for performance and simplicity
+[rhoot/sp](https://github.com/rhoot/sp) | Public domain string formatting micro-library for C++, based on python-style format strings
+[nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++
+[RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) | One-file C/C++ libraries with no dependencies, primarily used for games 
+[vurtun/mmx](https://github.com/vurtun/mmx) | single header libraries for C/C++ 
+[zpl-c/zpl](https://github.com/zpl-c/zpl) | Your C99 Powerkit 
+[rmitton/rjm](https://github.com/rmitton/rjm) | Various single-file C libraries. 
 
 ### Math
 
-- [g-truc/glm](https://github.com/g-truc/glm) - OpenGL Mathematics (GLM)
-- [recp/cglm](https://github.com/recp/cglm) - Optimized OpenGL/Graphics Math (glm) for C
-- [google/mathfu](https://github.com/google/mathfu) - C++ math library developed primarily for games focused on simplicity and efficiency.
-- [ferreiradaselva/mathc](https://github.com/ferreiradaselva/mathc) - Pure C math library for 2D and 3D programming
-- [demianmnave/CML](https://github.com/demianmnave/CML) The Configurable Math Library http://cmldev.net
-- [sce_vectormath](https://github.com/erwincoumans/sce_vectormath) - Vector math library
-- [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) - Imath
-- [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math) - A simple math library for games and computer graphics.
+Lib           | Title
+------------- | -------------
+[g-truc/glm](https://github.com/g-truc/glm) | OpenGL Mathematics (GLM)
+[recp/cglm](https://github.com/recp/cglm) | Optimized OpenGL/Graphics Math (glm) for C
+[google/mathfu](https://github.com/google/mathfu) | C++ math library developed primarily for games focused on simplicity and efficiency.
+[ferreiradaselva/mathc](https://github.com/ferreiradaselva/mathc) | Pure C math library for 2D and 3D programming
+[demianmnave/CML](https://github.com/demianmnave/CML) | The Configurable Math Library http://cmldev.net
+[sce_vectormath](https://github.com/erwincoumans/sce_vectormath) | Vector math library
+[Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) | Imath
+[Handmade-Math](https://github.com/HandmadeMath/Handmade-Math) | A simple math library for games and computer graphics.
 
 ### Windowing/Inputs
 
