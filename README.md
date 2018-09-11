@@ -20,9 +20,9 @@ A Collection of small C/C++ libraries for game development
   * [Physics](#physics)
   * [Pathfinding](#pathfinding)
 * [Asset Management](#asset-management)
-  * [Meshes/Geometry](#meshes-geometry)
-  * [Importers/Exporters](#importers-exporters)
-  * [Texture Baking/Packing](#texture-baking-packing)
+  * [Meshes/Geometry](#meshesgeometry)
+  * [Importers/Exporters](#importersexporters)
+  * [Texture Baking/Packing](#texture-bakingpacking)
 * [Misc](#misc)
   
 ## System
