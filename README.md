@@ -1,6 +1,6 @@
 # junkyard_gfx
 
-Small C/C++ libraries for low level real-time graphics
+A Collection of small C/C++ libraries for game development
 
 ![header](https://raw.githubusercontent.com/raizam/junkyard_gfx/master/header.jpg)
 
