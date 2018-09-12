@@ -170,7 +170,7 @@ Lib           | Title
 [assimp](https://github.com/assimp/assimp) | Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure
 [nem0/OpenFBX](https://github.com/nem0/OpenFBX) | Lightweight open source FBX importer 
 [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader) | Tiny but powerful single file wavefront obj loader 
-[syoyo/tinygltfloader](https://github.com/syoyo/tinygltfloader) | Header only C++ Tiny glTF loader. 
+[syoyo/tinygltf](https://github.com/syoyo/tinygltf) | Header only C++ Tiny glTF 2.0 loader. 
 
 ### Texture Baking/Packing
 
