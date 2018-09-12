@@ -41,7 +41,6 @@ Lib           | Title
 [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) | One-file C/C++ libraries with no dependencies, primarily used for games 
 [vurtun/mmx](https://github.com/vurtun/mmx) | single header libraries for C/C++ 
 [zpl-c/zpl](https://github.com/zpl-c/zpl) | Your C99 Powerkit 
-[rmitton/rjm](https://github.com/rmitton/rjm) | Various single-file C libraries. 
 
 ### Math
 
@@ -128,6 +127,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [guillaumeblanc/ozz-animation](https://github.com/guillaumeblanc/ozz-animation) | Open source c++ skeletal animation library and toolset
+[google/motive](https://github.com/google/motive) | A cross-platform, memory efficient, and performant animation system written in C++ http://google.github.io/motive/
 
 ### Physics
 Lib           | Title
