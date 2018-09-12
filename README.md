@@ -36,7 +36,6 @@ Lib           | Title
 ------------- | -------------
 [bkaradzic/bx](https://github.com/bkaradzic/bx) | Base library
 [septag/sx](https://github.com/septag/sx) | Portable base library for C programmers, tailored for performance and simplicity
-[rhoot/sp](https://github.com/rhoot/sp) | Public domain string formatting micro-library for C++, based on python-style format strings
 [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++
 [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) | One-file C/C++ libraries with no dependencies, primarily used for games 
 [vurtun/mmx](https://github.com/vurtun/mmx) | single header libraries for C/C++ 
@@ -192,7 +191,6 @@ Lib           | Title
 [libmorton](https://github.com/Forceflow/libmorton) | C++ header-only library with methods to efficiently encode/decode Morton codes
 [pugixml](https://github.com/zeux/pugixml) | Light-weight, simple and fast XML parser for C++ with XPath support
 [opengex](http://opengex.org/) | Scene format specification
-
 
 
 
