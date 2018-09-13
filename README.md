@@ -63,7 +63,7 @@ Lib           | Title
 [gainput](https://github.com/jkuhlmann/gainput) | C++ input library for games
 [wgois/OIS](https://github.com/wgois/OIS) | Object oriented Input System https://wgois.github.io/OIS/
 [ziacko/TinyWindow](https://github.com/ziacko/TinyWindow) | a cross platform (Linux and Windows) OpenGL window library in a single header
-[https://github.com/nyorain/ny](https://github.com/nyorain/ny) | Modern C++ cross-platform window abstraction
+[nyorain/ny](https://github.com/nyorain/ny) | Modern C++ cross-platform window abstraction
 
 ### Threading
 
