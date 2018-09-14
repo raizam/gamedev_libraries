@@ -80,6 +80,7 @@ Lib           | Title
 ------------- | -------------
 [openal-soft](https://github.com/kcat/openal-soft) | software implementation of the OpenAL 3D audio API
 [soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games
+[https://github.com/BareRose/atomix](https://github.com/BareRose/atomix) | Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing
 
 ### Networking
 
