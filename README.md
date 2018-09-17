@@ -2,30 +2,31 @@
 
 A Collection of small C/C++ libraries for game development
 
-![header](https://raw.githubusercontent.com/raizam/junkyard_gfx/master/header.jpg)
+![header](https://user-images.githubusercontent.com/2153610/45614134-c805f980-ba68-11e8-95ab-caba774feb54.jpg)
 
 
 
-* [System](#system)
-  * [Base](#base)
-  * [Math](#math)
-  * [Windowing/Inputs](#windowinginputs)
-  * [Threading](#threading)
-  * [Sound](#sound)
-  * [Networking](#networking)
-* [Engine Components](#engine-components)
-  * [Rendering](#rendering)
-  * [UI](#ui)
-  * [Scenegraph](#scenegraph)
-  * [ECS](#ecs)
-  * [Animation](#animation)
-  * [Physics](#physics)
-  * [Pathfinding](#pathfinding)
-* [Asset Management](#asset-management)
-  * [Meshes/Geometry](#meshesgeometry)
-  * [Importers/Exporters](#importersexporters)
-  * [Texture Baking/Packing](#texture-bakingpacking)
-* [Misc](#misc)
+- [junkyard_gfx](#junkyardgfx)
+  - [System](#system)
+    - [Base](#base)
+    - [Math](#math)
+    - [Windowing/Inputs](#windowinginputs)
+    - [Threading](#threading)
+    - [Sound](#sound)
+    - [Networking](#networking)
+  - [Engine Components](#engine-components)
+    - [Rendering](#rendering)
+    - [UI](#ui)
+    - [Scenegraph](#scenegraph)
+    - [ECS](#ecs)
+    - [Animation](#animation)
+    - [Physics](#physics)
+    - [Pathfinding](#pathfinding)
+  - [Asset Management](#asset-management)
+    - [Meshes/Geometry](#meshesgeometry)
+    - [Importers/Exporters](#importersexporters)
+    - [Texture Baking/Packing](#texture-bakingpacking)
+  - [Misc](#misc)
   
 ## System
 ### Base
