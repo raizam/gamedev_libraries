@@ -113,6 +113,7 @@ Lib           | Title
 [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 [vurtun/nuklear](https://github.com/vurtun/nuklear) | A single-header ANSI C gui library
 [andlabs/libui](https://github.com/andlabs/libui) | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
+[rxi/microui](https://github.com/rxi/microui) | Tiny immediate-mode UI library
 
 ### Scenegraph
 Lib           | Title
