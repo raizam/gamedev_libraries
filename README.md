@@ -90,6 +90,7 @@ Lib           | Title
 [librg](https://github.com/librg/librg) | Pure C99 game networking library
 [bkaradzic/bnet](https://github.com/bkaradzic/bnet#bnet---message-oriented-networking-library) | Message oriented networking library using TCP transport
 [zeromq/libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
+[rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
 
 
 ## Engine Components
@@ -196,7 +197,7 @@ Lib           | Title
 [libmorton](https://github.com/Forceflow/libmorton) | C++ header-only library with methods to efficiently encode/decode Morton codes
 [pugixml](https://github.com/zeux/pugixml) | Light-weight, simple and fast XML parser for C++ with XPath support
 [opengex](http://opengex.org/) | Scene format specification
-
+[rxi/log.c](https://github.com/rxi/log.c) | A simple logging library implemented in C99
 
 
 
