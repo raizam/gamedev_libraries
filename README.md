@@ -91,7 +91,7 @@ Lib           | Title
 [bkaradzic/bnet](https://github.com/bkaradzic/bnet#bnet---message-oriented-networking-library) | Message oriented networking library using TCP transport
 [zeromq/libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
 [rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
-
+[lsalzman/enet](https://github.com/lsalzman/enet) | ENet reliable UDP networking library
 
 ## Engine Components
 
