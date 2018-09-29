@@ -125,6 +125,7 @@ Lib           | Title
 ### ECS
 Lib           | Title
 ------------- | -------------
+[nem0/lent](https://github.com/nem0/lent) | Da bestest 2nd generation ECS library
 [skypjack/entt](https://github.com/skypjack/entt) | A fast and reliable entity-component system (ECS) and much more
 [redxdev/ECS](https://github.com/redxdev/ECS) | C++ single-header entity component system library
 [alecthomas/entityx](https://github.com/alecthomas/entityx) | EntityX - A fast, type-safe C++ Entity-Component system
