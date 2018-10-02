@@ -147,6 +147,7 @@ Lib           | Title
 ### Physics
 Lib           | Title
 ------------- | -------------
+[bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) | Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 [gjk.c](https://github.com/kroitor/gjk.c) | Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
 [nudge](https://github.com/rasmusbarr/nudge) | A small data-oriented and SIMD-optimized 3D rigid body physics library.
 [gpu sph fluids](https://github.com/erwincoumans/fluids_v3) | GPU SPH fluids 
