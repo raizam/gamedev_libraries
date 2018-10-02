@@ -148,6 +148,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) | Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+[MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) | Newton Dynamics is an integrated solution for real time simulation of physics environments. http://www.newtondynamics.com
 [erincatto/Box2D](https://github.com/erincatto/Box2D) | Box2D is a 2D physics engine for games http://box2d.org
 [AvtechScientific/ASL](https://github.com/AvtechScientific/ASL) | Advanced Simulation Library - hardware accelerated multiphysics simulation platform. http://asl.org.il
 [gjk.c](https://github.com/kroitor/gjk.c) | Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
