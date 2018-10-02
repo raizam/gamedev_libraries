@@ -14,6 +14,7 @@ A Collection of small C/C++ libraries for game development
     - [Threading](#threading)
     - [Sound](#sound)
     - [Networking](#networking)
+    - [SIMD](#simd)
   - [Engine Components](#engine-components)
     - [Rendering](#rendering)
     - [UI](#ui)
@@ -92,6 +93,14 @@ Lib           | Title
 [zeromq/libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
 [rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
 [lsalzman/enet](https://github.com/lsalzman/enet) | ENet reliable UDP networking library
+
+### SIMD
+
+Lib           | Title
+------------- | -------------
+[p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) | Portable header-only zero-overhead C++ low level SIMD library
+[VcDevel/Vc](https://github.com/VcDevel/Vc) | SIMD Vector Classes for C++
+
 
 ## Engine Components
 
