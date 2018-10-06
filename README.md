@@ -75,6 +75,9 @@ Lib           | Title
 [deboost.context](https://github.com/septag/deboost.context) | "Deboostified" version of boost.context (coroutines), Plain and simple C API for context switching. Easy build on multiple platforms.
 [SergeyMakeev/TaskScheduler](https://github.com/SergeyMakeev/TaskScheduler) | Multithreaded task scheduler experiments
 [dougbinks/enkiTS](https://github.com/dougbinks/enkiTS) | C++ and C multithreading task scheduler
+[Freeeaky/fiber-job-system](https://github.com/Freeeaky/fiber-job-system) | Multi-Threaded Job System using Fibers
+[RichieSams/FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) |A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
+[JodiTheTigger/sewing](https://github.com/JodiTheTigger/sewing) | Small C API Multiplatform multithreaded fiber based job system
 
 ### Sound
 
