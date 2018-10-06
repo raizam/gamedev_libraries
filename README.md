@@ -114,9 +114,9 @@ Lib           | Title
 [floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
 [pplux/px](https://github.com/pplux/px) | Single header C++ Libraries for Thread Scheduling, Rendering
 [google/filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
-[fastuidraw](https://github.com/intel/fastuidraw) | library that provides a higher performance Canvas interface
+[intel/fastuidraw](https://github.com/intel/fastuidraw) | library that provides a higher performance Canvas interface
 [mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
-[V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
+[GPUOpen-LibrariesAndSDKs/V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
 
 ### UI
 
