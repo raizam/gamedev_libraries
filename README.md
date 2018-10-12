@@ -96,6 +96,7 @@ Lib           | Title
 [zeromq/libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
 [rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
 [lsalzman/enet](https://github.com/lsalzman/enet) | ENet reliable UDP networking library
+[jarikomppa/ipc](https://github.com/jarikomppa/ipc) | Public domain, cross platform, single header inter-process communication primitives. This is a "stb like" public domain header-only C/C++ library that provides inter process communication functionality, released under unlicense.
 
 ### SIMD
 
