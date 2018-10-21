@@ -131,6 +131,7 @@ Lib           | Title
 [vurtun/nuklear](https://github.com/vurtun/nuklear) | A single-header ANSI C gui library
 [andlabs/libui](https://github.com/andlabs/libui) | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
 [rxi/microui](https://github.com/rxi/microui) | Tiny immediate-mode UI library
+[julianeisel/bWidgets](https://github.com/julianeisel/bWidgets) | Basic UI widget toolkit designed for Blender 
 
 ### Scenegraph
 Lib           | Title
