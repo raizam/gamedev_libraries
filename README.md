@@ -215,6 +215,7 @@ Lib           | Title
 
 Lib           | Title
 ------------- | -------------
+[fungos/cr](https://github.com/fungos/cr) | cr.h: A Simple C Hot Reload Header-only Library 
 [Manu343726/ctti](https://github.com/Manu343726/ctti)| Compile Time Type Information for C++
 [easy_profiler](https://github.com/yse/easy_profiler) | Lightweight profiler library for c++
 [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library.
