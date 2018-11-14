@@ -23,6 +23,7 @@ A Collection of small C/C++ libraries for game development
     - [Animation](#animation)
     - [Physics](#physics)
     - [Pathfinding](#pathfinding)
+    - [Database](#database)
   - [Asset Management](#asset-management)
     - [Meshes/Geometry](#meshesgeometry)
     - [Importers/Exporters](#importersexporters)
@@ -175,6 +176,12 @@ Lib           | Title
 [astar-algorithm-cpp](https://github.com/justinhj/astar-algorithm-cpp) | Implementations of the A* algorithm in C++ and C#
 [MicroPather](https://github.com/leethomason/MicroPather) | A* solver (astar or a-star) written in platform independent C++
 [recastnavigation](https://github.com/recastnavigation/recastnavigation) | Navigation-mesh Toolset for Games
+
+
+### Database
+Lib           | Title
+------------- | -------------
+[symisc/unqlite](https://github.com/symisc/unqlite) | An Embedded NoSQL, Transactional Database Engine 
 
 ## Asset Management
 
