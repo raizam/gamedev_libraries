@@ -141,6 +141,7 @@ Lib           | Title
 [skypjack/entt](https://github.com/skypjack/entt) | A fast and reliable entity-component system (ECS) and much more
 [redxdev/ECS](https://github.com/redxdev/ECS) | C++ single-header entity component system library
 [alecthomas/entityx](https://github.com/alecthomas/entityx) | EntityX - A fast, type-safe C++ Entity-Component system
+[discoloda/Diana](https://github.com/discoloda/Diana) | Entity Component system like Artemis implemented in C 
 
 ### Animation
 Lib           | Title
