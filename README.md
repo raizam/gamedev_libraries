@@ -110,6 +110,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+[DiligentGraphics/DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level 3D graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, Vulkan and Metal
 [Kode/Kore](https://github.com/Kode/Kore) | Modern low level game library and hardware abstraction
 [floooh/sokol](https://github.com/floooh/sokol) | minimal cross-platform standalone C headers
 [floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
