@@ -119,6 +119,7 @@ Lib           | Title
 [mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 [GPUOpen-LibrariesAndSDKs/V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
 [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | A brief computer graphics / rendering course 
+[nicebyte/nicegraf](https://github.com/nicebyte/nicegraf) | An abstraction layer for low-level platform-specific graphics APIs. 
 
 ### UI
 
