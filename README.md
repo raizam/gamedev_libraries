@@ -94,6 +94,7 @@ Lib           | Title
 [rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
 [lsalzman/enet](https://github.com/lsalzman/enet) | ENet reliable UDP networking library
 [jarikomppa/ipc](https://github.com/jarikomppa/ipc) | Public domain, cross platform, single header inter-process communication primitives. This is a "stb like" public domain header-only C/C++ library that provides inter process communication functionality, released under unlicense.
+[ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) | Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. Encryption. 
 
 ### SIMD
 
