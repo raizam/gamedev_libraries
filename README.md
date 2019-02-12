@@ -218,7 +218,7 @@ Lib           | Title
 [dariomanesku/cmft](https://github.com/dariomanesku/cmft) | Cross-platform open-source command-line cubemap filtering tool
 [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) | High efficient and fast 2D bin packing tool
 [thekla_atlas](https://github.com/Thekla/thekla_atlas) | Atlas Generation Tool
-[https://github.com/libvips/libvips](https://github.com/libvips/libvips) | A fast image processing library with low memory needs
+[libvips](https://github.com/libvips/libvips) | A fast image processing library with low memory needs
 
 ## Misc
 
