@@ -52,6 +52,7 @@ Lib           | Title
 [sce_vectormath](https://github.com/erwincoumans/sce_vectormath) | Vector math library
 [Imath](https://github.com/openexr/openexr/tree/develop/IlmBase/Imath) | Imath
 [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math) | A simple math library for games and computer graphics.
+[felselva/mathc](https://github.com/felselva/mathc) | Pure C math library for 2D and 3D programming. 
 
 ### Windowing/Inputs
 
