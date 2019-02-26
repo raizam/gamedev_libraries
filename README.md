@@ -10,7 +10,7 @@ A Collection of C/C++ libraries for game development
     - [Math](#math)
     - [Windowing/Inputs](#windowinginputs)
     - [Threading](#threading)
-    - [Sound](#sound)
+    - [Audio](#audio)
     - [Networking](#networking)
     - [SIMD](#simd)
   - [Engine Components](#engine-components)
@@ -77,13 +77,14 @@ Lib           | Title
 [RichieSams/FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) |A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
 [JodiTheTigger/sewing](https://github.com/JodiTheTigger/sewing) | Small C API Multiplatform multithreaded fiber based job system
 
-### Sound
+### Audio
 
 Lib           | Title
 ------------- | -------------
 [openal-soft](https://github.com/kcat/openal-soft) | software implementation of the OpenAL 3D audio API
 [soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games
 [BareRose/atomix](https://github.com/BareRose/atomix) | Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing
+[dr-soft/mini_al](https://github.com/dr-soft/mini_al) | Single file audio playback and capture library
 
 ### Networking
 
