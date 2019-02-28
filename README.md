@@ -26,6 +26,7 @@ A Collection of C/C++ libraries for game development
     - [Meshes/Geometry](#meshesgeometry)
     - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
+  - [Frameworks](#frameworks)
   - [Misc](#misc)
   
 ## System
@@ -122,7 +123,6 @@ Lib           | Title
 [pplux/px](https://github.com/pplux/px) | Single header C++ Libraries for Thread Scheduling, Rendering
 [google/filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 [intel/fastuidraw](https://github.com/intel/fastuidraw) | library that provides a higher performance Canvas interface
-[mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 [GPUOpen-LibrariesAndSDKs/V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
 [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | A brief computer graphics / rendering course 
 [nicebyte/nicegraf](https://github.com/nicebyte/nicegraf) | An abstraction layer for low-level platform-specific graphics APIs. 
@@ -221,6 +221,15 @@ Lib           | Title
 [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) | High efficient and fast 2D bin packing tool
 [thekla_atlas](https://github.com/Thekla/thekla_atlas) | Atlas Generation Tool
 [libvips](https://github.com/libvips/libvips) | A fast image processing library with low memory needs
+
+## Frameworks
+
+Lib           | Title
+------------- | -------------
+[SFML/SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library http://www.sfml-dev.org/
+[GameFoundry/bsf](https://github.com/GameFoundry/bsf)| Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
+[ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
+[mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 
 ## Misc
 
