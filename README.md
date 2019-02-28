@@ -210,6 +210,7 @@ Lib           | Title
 [nem0/OpenFBX](https://github.com/nem0/OpenFBX) | Lightweight open source FBX importer 
 [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader) | Tiny but powerful single file wavefront obj loader 
 [syoyo/tinygltf](https://github.com/syoyo/tinygltf) | Header only C++ Tiny glTF 2.0 loader. 
+[https://github.com/jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) | Single-file glTF 2.0 parser written in C99
 
 ### Texture Baking/Packing
 
