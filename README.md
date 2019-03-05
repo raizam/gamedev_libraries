@@ -26,6 +26,7 @@ A Collection of C/C++ libraries for game development
     - [Meshes/Geometry](#meshesgeometry)
     - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
+    - [Video](#video)
   - [Full-featured Frameworks](#full-featured-frameworks)
   - [Misc](#misc)
   
@@ -194,6 +195,7 @@ Lib           | Title
 
 ### Meshes/Geometry
 
+#### Processing
 Lib           | Title
 ------------- | -------------
 [libigl](https://github.com/libigl/libigl) | Simple C++ geometry processing library
@@ -203,7 +205,7 @@ Lib           | Title
 [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) | Mesh simplification with UV's boundary preserved
 [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | Mesh optimization library that makes indexed meshes more GPU-friendly
 
-### Importers/Exporters
+#### Importers/Exporters
 
 Lib           | Title
 ------------- | -------------
@@ -223,6 +225,11 @@ Lib           | Title
 [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) | High efficient and fast 2D bin packing tool
 [thekla_atlas](https://github.com/Thekla/thekla_atlas) | Atlas Generation Tool
 [libvips](https://github.com/libvips/libvips) | A fast image processing library with low memory needs
+
+### Video
+Lib           | Title
+------------- | -------------
+[FFmpeg](https://github.com/FFmpeg/FFmpeg) | A complete, cross-platform solution to record, convert and stream audio and video.
 
 ## Full-featured Frameworks
 
