@@ -118,12 +118,13 @@ Lib           | Title
 [Kode/Kore](https://github.com/Kode/Kore) | Modern low level game library and hardware abstraction
 [floooh/sokol](https://github.com/floooh/sokol) | minimal cross-platform standalone C headers
 [floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
+[google/filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
+[grz0zrg/fbg](https://github.com/grz0zrg/fbg) | Lightweight C 2D graphics API agnostic library with parallelism support 
 [cofenberg/unrimp](https://github.com/cofenberg/unrimp) | Unified renderer implementation ("Un r imp") 
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Vulkan-based D3D11 and D3D10 implementation for Linux / Wine 
 [pplux/px](https://github.com/pplux/px) | Single header C++ Libraries for Thread Scheduling, Rendering
-[google/filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 [intel/fastuidraw](https://github.com/intel/fastuidraw) | library that provides a higher performance Canvas interface
-[GPUOpen-LibrariesAndSDKs/V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
+[V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
 [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | A brief computer graphics / rendering course 
 [nicebyte/nicegraf](https://github.com/nicebyte/nicegraf) | An abstraction layer for low-level platform-specific graphics APIs. 
 
