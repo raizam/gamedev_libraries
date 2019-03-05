@@ -84,6 +84,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [openal-soft](https://github.com/kcat/openal-soft) | software implementation of the OpenAL 3D audio API
+[FNA-XNA/FAudio](https://github.com/FNA-XNA/FAudio) | FAudio - Accuracy-focused XAudio reimplementation for open platforms
 [soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games
 [BareRose/atomix](https://github.com/BareRose/atomix) | Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing
 [dr-soft/mini_al](https://github.com/dr-soft/mini_al) | Single file audio playback and capture library
