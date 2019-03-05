@@ -136,6 +136,7 @@ Lib           | Title
 [andlabs/libui](https://github.com/andlabs/libui) | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports
 [rxi/microui](https://github.com/rxi/microui) | Tiny immediate-mode UI library
 [julianeisel/bWidgets](https://github.com/julianeisel/bWidgets) | Basic UI widget toolkit designed for Blender 
+[idea4good/GuiLite](https://github.com/idea4good/GuiLite) | smallest UI framework for all platform & Docker -- 5k lines code 
 
 ### Scenegraph
 Lib           | Title
