@@ -96,6 +96,21 @@ Lib           | Title
 [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) | Portable header-only zero-overhead C++ low level SIMD library
 [VcDevel/Vc](https://github.com/VcDevel/Vc) | SIMD Vector Classes for C++
 
+### Debug
+
+Lib           | Title
+------------- | -------------
+[rxi/log.c](https://github.com/rxi/log.c) | A simple logging library implemented in C99
+[spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library.
+[easy_profiler](https://github.com/yse/easy_profiler) | Lightweight profiler library for c++
+
+### Plugin System/Reflection
+
+Lib           | Title
+------------- | -------------
+[fungos/cr](https://github.com/fungos/cr) | cr.h: A Simple C Hot Reload Header-only Library 
+[Manu343726/ctti](https://github.com/Manu343726/ctti)| Compile Time Type Information for C++
+
 
 ## Engine Components
 
@@ -178,15 +193,13 @@ Lib           | Title
 [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) | Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) | Newton Dynamics is an integrated solution for real time simulation of physics environments. http://www.newtondynamics.com
 [erincatto/Box2D](https://github.com/erincatto/Box2D) | Box2D is a 2D physics engine for games http://box2d.org
-[AvtechScientific/ASL](https://github.com/AvtechScientific/ASL) | Advanced Simulation Library - hardware accelerated multiphysics simulation platform. http://asl.org.il
-[gjk.c](https://github.com/kroitor/gjk.c) | Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
-[nudge](https://github.com/rasmusbarr/nudge) | A small data-oriented and SIMD-optimized 3D rigid body physics library.
-[gpu sph fluids](https://github.com/erwincoumans/fluids_v3) | GPU SPH fluids 
-[phyx](https://github.com/zeux/phyx) | 2D physics engine with SoA/SIMD optimizations
-[ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) | CPU and GPU implementations of a particle-based physics
-[PlayRho](https://github.com/louis-langholtz/PlayRho) | Real-time oriented physics engine and library that's currently best suited for 2D games
 [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) | A fast and lightweight 2D game physics library.
+[gjk.c](https://github.com/kroitor/gjk.c) | Gilbert-Johnson-Keerthi (GJK) collision detection algorithm
+[phyx](https://github.com/zeux/phyx) | 2D physics engine with SoA/SIMD optimizations
+[PlayRho](https://github.com/louis-langholtz/PlayRho) | Real-time oriented physics engine and library that's currently best suited for 2D games
 [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics) | PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids
+[nudge](https://github.com/rasmusbarr/nudge) | A small data-oriented and SIMD-optimized 3D rigid body physics library.
+[ParticleSolver](https://github.com/ebirenbaum/ParticleSolver) | CPU and GPU implementations of a particle-based physics
 
 
 ### Pathfinding
@@ -258,15 +271,11 @@ Lib           | Title
 
 Lib           | Title
 ------------- | -------------
-[fungos/cr](https://github.com/fungos/cr) | cr.h: A Simple C Hot Reload Header-only Library 
-[Manu343726/ctti](https://github.com/Manu343726/ctti)| Compile Time Type Information for C++
-[easy_profiler](https://github.com/yse/easy_profiler) | Lightweight profiler library for c++
-[spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library.
 [color](https://github.com/dmilos/color) | C++ library thats implemets class color
 [libmorton](https://github.com/Forceflow/libmorton) | C++ header-only library with methods to efficiently encode/decode Morton codes
 [pugixml](https://github.com/zeux/pugixml) | Light-weight, simple and fast XML parser for C++ with XPath support
 [opengex](http://opengex.org/) | Scene format specification
-[rxi/log.c](https://github.com/rxi/log.c) | A simple logging library implemented in C99
+
 
 
 
