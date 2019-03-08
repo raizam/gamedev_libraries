@@ -79,27 +79,15 @@ Lib           | Title
 [RichieSams/FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) |A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
 [JodiTheTigger/sewing](https://github.com/JodiTheTigger/sewing) | Small C API Multiplatform multithreaded fiber based job system
 
-### Audio
+### Memory Allocators
 
 Lib           | Title
 ------------- | -------------
-[openal-soft](https://github.com/kcat/openal-soft) | software implementation of the OpenAL 3D audio API
-[FNA-XNA/FAudio](https://github.com/FNA-XNA/FAudio) | FAudio - Accuracy-focused XAudio reimplementation for open platforms
-[soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games
-[BareRose/atomix](https://github.com/BareRose/atomix) | Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing
-[dr-soft/mini_al](https://github.com/dr-soft/mini_al) | Single file audio playback and capture library
-
-### Networking
-
-Lib           | Title
-------------- | -------------
-[librg](https://github.com/librg/librg) | Pure C99 game networking library
-[bkaradzic/bnet](https://github.com/bkaradzic/bnet#bnet---message-oriented-networking-library) | Message oriented networking library using TCP transport
-[zeromq/libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
-[rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
-[lsalzman/enet](https://github.com/lsalzman/enet) | ENet reliable UDP networking library
-[jarikomppa/ipc](https://github.com/jarikomppa/ipc) | Public domain, cross platform, single header inter-process communication primitives. This is a "stb like" public domain header-only C/C++ library that provides inter process communication functionality, released under unlicense.
-[ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) | Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. Encryption. 
+[mtrebi/memory-allocators](https://github.com/mtrebi/memory-allocators) | Custom memory allocators in C++ to improve the performance of dynamic memory allocation
+[foonathan/memory](https://github.com/foonathan/memory) | STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. http://foonathan.net/doc/memory
+[SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) | Blazing fast memory allocator designed for video games 
+[plasma-umass/Mesh](https://github.com/SergeyMakeev/smmalloc) | A memory allocator that automatically reduces the memory footprint of C/C++ applications. 
+[rampantpixels/rpmalloc](https://github.com/rampantpixels/rpmalloc) | Public domain cross platform lock free thread caching 32-byte aligned memory allocator implemented in C 
 
 ### SIMD
 
@@ -128,6 +116,29 @@ Lib           | Title
 [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) | V-EZ is an open source, cross-platform (Windows and Linux) wrapper intended to alleviate the inherent complexity and application responsibility of using the Vulkan API.
 [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) | A brief computer graphics / rendering course 
 [nicebyte/nicegraf](https://github.com/nicebyte/nicegraf) | An abstraction layer for low-level platform-specific graphics APIs. 
+
+### Audio
+
+Lib           | Title
+------------- | -------------
+[openal-soft](https://github.com/kcat/openal-soft) | software implementation of the OpenAL 3D audio API
+[FNA-XNA/FAudio](https://github.com/FNA-XNA/FAudio) | FAudio - Accuracy-focused XAudio reimplementation for open platforms
+[soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games
+[BareRose/atomix](https://github.com/BareRose/atomix) | Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing
+[dr-soft/mini_al](https://github.com/dr-soft/mini_al) | Single file audio playback and capture library
+
+### Networking
+
+Lib           | Title
+------------- | -------------
+[librg](https://github.com/librg/librg) | Pure C99 game networking library
+[bkaradzic/bnet](https://github.com/bkaradzic/bnet#bnet---message-oriented-networking-library) | Message oriented networking library using TCP transport
+[zeromq/libzmq](https://github.com/zeromq/libzmq) | ZeroMQ core engine in C++, implements ZMTP/3.1 http://www.zeromq.org
+[rxi/dyad](https://github.com/rxi/dyad) | Asynchronous networking for C
+[lsalzman/enet](https://github.com/lsalzman/enet) | ENet reliable UDP networking library
+[jarikomppa/ipc](https://github.com/jarikomppa/ipc) | Public domain, cross platform, single header inter-process communication primitives. This is a "stb like" public domain header-only C/C++ library that provides inter process communication functionality, released under unlicense.
+[ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) | Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. Encryption.
+
 
 ### UI
 
