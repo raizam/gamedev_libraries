@@ -1,10 +1,10 @@
-# junkyard_gfx
+# gamedev_junkyard
 
 A Collection of C/C++ libraries for game development
 
 ![header](https://user-images.githubusercontent.com/2153610/45614134-c805f980-ba68-11e8-95ab-caba774feb54.jpg)
 
-- [junkyard_gfx](#junkyardgfx)
+- [gamedev_junkyard](#junkyardgfx)
   - [System](#system)
     - [Base](#base)
     - [Math](#math)
