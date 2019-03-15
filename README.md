@@ -56,7 +56,8 @@ Lib           | Title
 [Handmade-Math](https://github.com/HandmadeMath/Handmade-Math) | A simple math library for games and computer graphics.
 [felselva/mathc](https://github.com/felselva/mathc) | Pure C math library for 2D and 3D programming. 
 [PX4/eigen](https://github.com/PX4/eigen) | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. http://eigen.tuxfamily.org/
-[laze-lib/blaze](https://bitbucket.org/blaze-lib/blaze) | Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic. With its state-of-the-art Smart Expression Template implementation Blaze combines the elegance and ease of use of a domain-specific language with HPC-grade performance, making it one of the most intuitive and fastest C++ math libraries available.
+[laze-lib/blaze](https://bitbucket.org/blaze-lib/blaze) | Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic. 
+[sgorsten/linalg](https://github.com/sgorsten/linalg) | linalg.h is a single header public domain linear algebra library for C++11
 
 ### Windowing/Inputs
 
