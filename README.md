@@ -169,6 +169,7 @@ Lib           | Title
 [rxi/microui](https://github.com/rxi/microui) | Tiny immediate-mode UI library
 [julianeisel/bWidgets](https://github.com/julianeisel/bWidgets) | Basic UI widget toolkit designed for Blender 
 [idea4good/GuiLite](https://github.com/idea4good/GuiLite) | smallest UI framework for all platform & Docker -- 5k lines code 
+[littlevgl/lvgl](https://github.com/littlevgl/lvgl) | Graphics library to create an embedded GUI with easy-to-use graphical elements
 
 ### Scenegraph
 Lib           | Title
