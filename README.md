@@ -126,7 +126,6 @@ Lib           | Title
 [floooh/sokol](https://github.com/floooh/sokol) | minimal cross-platform standalone C headers
 [google/filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 [grz0zrg/fbg](https://github.com/grz0zrg/fbg) | Lightweight C 2D graphics API agnostic library with parallelism support 
-[bazhenovc/sigrlinn](https://github.com/bazhenovc/sigrlinn) | An abstract graphics API library
 [cofenberg/unrimp](https://github.com/cofenberg/unrimp) | Unified renderer implementation ("Un r imp") 
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk) | Vulkan-based D3D11 and D3D10 implementation for Linux / Wine 
 [pplux/px](https://github.com/pplux/px) | Single header C++ Libraries for Thread Scheduling, Rendering
