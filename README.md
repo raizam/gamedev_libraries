@@ -272,16 +272,6 @@ Lib           | Title
 [mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 [SFML/SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library http://www.sfml-dev.org/
 
-## Misc
-
-Lib           | Title
-------------- | -------------
-[color](https://github.com/dmilos/color) | C++ library thats implemets class color
-[libmorton](https://github.com/Forceflow/libmorton) | C++ header-only library with methods to efficiently encode/decode Morton codes
-[pugixml](https://github.com/zeux/pugixml) | Light-weight, simple and fast XML parser for C++ with XPath support
-[opengex](http://opengex.org/) | Scene format specification
-
-
 
 
 
