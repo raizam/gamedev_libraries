@@ -13,7 +13,10 @@ A Collection of C/C++ libraries for game development
     - [Audio](#audio)
     - [Networking](#networking)
     - [SIMD](#simd)
+    - [Debug](#debugging)
+    - [Plugin systems/Reflection](#plugin-systemreflection)
   - [Engine Components](#engine-components)
+    - [Full-featured Frameworks](#full-featured-frameworks)
     - [Rendering](#rendering)
     - [UI](#ui)
     - [Scenegraph](#scenegraph)
@@ -27,8 +30,7 @@ A Collection of C/C++ libraries for game development
     - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
     - [Video](#video)
-  - [Full-featured Frameworks](#full-featured-frameworks)
-  - [Misc](#misc)
+
   
 ## System
 ### Base
@@ -99,7 +101,7 @@ Lib           | Title
 [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) | Portable header-only zero-overhead C++ low level SIMD library
 [VcDevel/Vc](https://github.com/VcDevel/Vc) | SIMD Vector Classes for C++
 
-### Debug
+### Debugging
 
 Lib           | Title
 ------------- | -------------
@@ -116,6 +118,17 @@ Lib           | Title
 
 
 ## Engine Components
+
+## Full-featured Frameworks
+
+Lib           | Title
+------------- | -------------
+[GameFoundry/bsf](https://github.com/GameFoundry/bsf)| Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
+[DiligentGraphics/DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level 3D graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, Vulkan and Metal
+[floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
+[ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
+[mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
+[SFML/SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library http://www.sfml-dev.org/
 
 ### Rendering
 
@@ -261,16 +274,7 @@ Lib           | Title
 ------------- | -------------
 [FFmpeg](https://github.com/FFmpeg/FFmpeg) | A complete, cross-platform solution to record, convert and stream audio and video.
 
-## Full-featured Frameworks
 
-Lib           | Title
-------------- | -------------
-[GameFoundry/bsf](https://github.com/GameFoundry/bsf)| Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
-[DiligentGraphics/DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level 3D graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, Vulkan and Metal
-[floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
-[ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
-[mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
-[SFML/SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library http://www.sfml-dev.org/
 
 
 
