@@ -108,6 +108,8 @@ Lib           | Title
 [rxi/log.c](https://github.com/rxi/log.c) | A simple logging library implemented in C99
 [spdlog](https://github.com/gabime/spdlog) | Fast C++ logging library.
 [easy_profiler](https://github.com/yse/easy_profiler) | Lightweight profiler library for c++
+[crosire/blink](https://github.com/crosire/blink) | A tool which allows you to edit source code of any Windows C++ project live at runtime 
+[ddovod/jet-live](https://github.com/ddovod/jet-live) | c++ hot code reload for linux and macos 
 
 ### Plugin System/Reflection
 
