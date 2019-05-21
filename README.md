@@ -163,6 +163,8 @@ Lib           | Title
 [soloud](https://github.com/jarikomppa/soloud) | Free, easy, portable audio engine for games
 [BareRose/atomix](https://github.com/BareRose/atomix) | Portable, single-file, wait-free atomic sound mixing library utilizing SSE-accelerated mixing
 [dr-soft/miniaudio](https://github.com/dr-soft/miniaudio) | Single file audio playback and capture library
+[portaudio](http://www.portaudio.com/) | PortAudio is a free, cross-platform, open-source, audio I/O library
+[resonance-audio](https://github.com/resonance-audio) | High fidelity spatial audio at scale.
 
 ### Networking
 
