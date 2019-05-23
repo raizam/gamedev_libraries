@@ -269,6 +269,7 @@ Lib           | Title
 
 Lib           | Title
 ------------- | -------------
+[BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal) | Basis Universal GPU Texture Codec 
 [caosdoar/Fornos](https://github.com/caosdoar/Fornos) | GPU Texture Baking Tool. A fast and simple tool to bake your high-poly mesh details to textures.
 [kmkolasinski/AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) | AwesomeBump generate normal, height, specular or ambient occlusion textures from a single image
 [dariomanesku/cmft](https://github.com/dariomanesku/cmft) | Cross-platform open-source command-line cubemap filtering tool
