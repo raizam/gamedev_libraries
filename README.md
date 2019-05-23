@@ -1,10 +1,10 @@
-# gamedev_library
+# gamedev_libraries
 
 A Collection of C/C++ libraries for game development
 
 ![header](https://user-images.githubusercontent.com/2153610/58254961-3d4e6a80-7d6c-11e9-8c17-cba3a7cb5e9f.jpg)
 
-- [gamedev_library](#junkyardgfx)
+- [gamedev_libraries](#junkyardgfx)
   - [System](#system)
     - [Base](#base)
     - [Math](#math)
