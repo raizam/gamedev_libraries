@@ -254,6 +254,7 @@ Lib           | Title
 [Cullminator9000](https://github.com/Alan-FGR/Cullminator9000) | The fastest culler ever
 [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) | Mesh simplification with UV's boundary preserved
 [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | Mesh optimization library that makes indexed meshes more GPU-friendly
+[https://github.com/google/draco](https://github.com/google/draco) | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. 
 
 #### Importers/Exporters
 
