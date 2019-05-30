@@ -190,6 +190,7 @@ Lib           | Title
 [julianeisel/bWidgets](https://github.com/julianeisel/bWidgets) | Basic UI widget toolkit designed for Blender 
 [idea4good/GuiLite](https://github.com/idea4good/GuiLite) | smallest UI framework for all platform & Docker -- 5k lines code 
 [littlevgl/lvgl](https://github.com/littlevgl/lvgl) | Graphics library to create an embedded GUI with easy-to-use graphical elements
+[wjakob/nanogui](https://github.com/wjakob/nanogui) | Minimalistic GUI library for OpenGL
 
 ### Scenegraph
 Lib           | Title
@@ -254,7 +255,7 @@ Lib           | Title
 [Cullminator9000](https://github.com/Alan-FGR/Cullminator9000) | The fastest culler ever
 [SeamAwareDecimater](https://github.com/songrun/SeamAwareDecimater) | Mesh simplification with UV's boundary preserved
 [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | Mesh optimization library that makes indexed meshes more GPU-friendly
-[https://github.com/google/draco](https://github.com/google/draco) | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. 
+[google/draco](https://github.com/google/draco) | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. 
 
 #### Importers/Exporters
 
