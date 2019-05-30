@@ -265,6 +265,7 @@ Lib           | Title
 [syoyo/tinyobjloader](https://github.com/syoyo/tinyobjloader) | Tiny but powerful single file wavefront obj loader 
 [syoyo/tinygltf](https://github.com/syoyo/tinygltf) | Header only C++ Tiny glTF 2.0 loader. 
 [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) | Single-file glTF 2.0 parser written in C99
+[microsoft/glTF-SDK](https://github.com/microsoft/glTF-SDK) | glTF-SDK is a C++ Software Development Kit for glTF 
 
 ### Texture Baking/Packing
 
