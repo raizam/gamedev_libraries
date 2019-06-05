@@ -132,6 +132,7 @@ Lib           | Title
 [mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 [SFML/SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library http://www.sfml-dev.org/
 [septag/rizz](https://github.com/septag/rizz) | Tiny C11 game development framework 
+[mrDIMAS/DmitrysEngine](https://github.com/mrDIMAS/DmitrysEngine) | C99 cross-platform 3D game engine with absolute minimum of external dependencies
 
 ## Engine Components
 
