@@ -15,7 +15,6 @@ A Collection of C/C++ libraries for game development
     - [SIMD](#simd)
     - [Debug](#debugging)
     - [Plugin systems/Reflection](#plugin-systemreflection)
-  - [Full-featured Frameworks](#full-featured-frameworks)
   - [Engine Components](#engine-components)
     - [Rendering](#rendering)
     - [UI](#ui)
@@ -30,7 +29,7 @@ A Collection of C/C++ libraries for game development
     - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
     - [Video](#video)
-
+  - [Full-featured Game Engine/Frameworks](#full-featured-frameworks)
   
 ## System
 ### Base
@@ -119,21 +118,6 @@ Lib           | Title
 [Manu343726/ctti](https://github.com/Manu343726/ctti)| Compile Time Type Information for C++
 
 
-
-## Full-featured Frameworks
-
-Lib           | Title
-------------- | -------------
-[GameFoundry/bsf](https://github.com/GameFoundry/bsf)| Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
-[DiligentGraphics/DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level 3D graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, Vulkan and Metal
-[raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming http://www.raylib.com
-[floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
-[ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
-[mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
-[SFML/SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library http://www.sfml-dev.org/
-[septag/rizz](https://github.com/septag/rizz) | Tiny C11 game development framework 
-[mrDIMAS/DmitrysEngine](https://github.com/mrDIMAS/DmitrysEngine) | C99 cross-platform 3D game engine with absolute minimum of external dependencies
-
 ## Engine Components
 
 ### Rendering
@@ -141,8 +125,9 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-[Kode/Kore](https://github.com/Kode/Kore) | Modern low level game library and hardware abstraction
 [floooh/sokol](https://github.com/floooh/sokol) | minimal cross-platform standalone C headers
+[DiligentGraphics/DiligentEngine](https://github.com/DiligentGraphics/DiligentEngine) | A modern cross-platform low-level 3D graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, Vulkan and Metal
+[Kode/Kore](https://github.com/Kode/Kore) | Modern low level game library and hardware abstraction
 [google/filament](https://github.com/google/filament) | Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS
 [grz0zrg/fbg](https://github.com/grz0zrg/fbg) | Lightweight C 2D graphics API agnostic library with parallelism support 
 [cofenberg/unrimp](https://github.com/cofenberg/unrimp) | Unified renderer implementation ("Un r imp") 
@@ -281,11 +266,21 @@ Lib           | Title
 [thekla_atlas](https://github.com/Thekla/thekla_atlas) | Atlas Generation Tool
 [libvips](https://github.com/libvips/libvips) | A fast image processing library with low memory needs
 
-### Video
+
+
+## Full-featured Game Engines/Frameworks
+
 Lib           | Title
 ------------- | -------------
-[FFmpeg](https://github.com/FFmpeg/FFmpeg) | A complete, cross-platform solution to record, convert and stream audio and video.
-
+[GameFoundry/bsf](https://github.com/GameFoundry/bsf)| Modern C++14 library for the development of real-time graphical applications https://www.bsframework.io
+[raylib](https://github.com/raysan5/raylib) | A simple and easy-to-use library to enjoy videogames programming http://www.raylib.com
+[floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
+[ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
+[mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
+[septag/rizz](https://github.com/septag/rizz) | Tiny C11 game development framework 
+[mrDIMAS/DmitrysEngine](https://github.com/mrDIMAS/DmitrysEngine) | C99 cross-platform 3D game engine with absolute minimum of external dependencies
+[LumixEngine](https://github.com/nem0/LumixEngine) | 3D Game Engine https://github.com/nem0/lumixengine_data
+[rokups/rbfx](https://github.com/rokups/rbfx) | Game engine with extensive C# support and WYSIWYG editor. 
 
 
 
