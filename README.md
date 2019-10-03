@@ -27,7 +27,6 @@ A Collection of C/C++ libraries for game development
     - [Meshes/Geometry](#meshesgeometry)
     - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
-    - [Video](#video)
   - [Full-featured Game Engine/Frameworks](#full-featured-game-enginesframeworks)
   
 ## System
