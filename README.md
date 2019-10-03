@@ -2,7 +2,6 @@
 
 A Collection of C/C++ libraries for game development
 
-![header](https://user-images.githubusercontent.com/2153610/58254961-3d4e6a80-7d6c-11e9-8c17-cba3a7cb5e9f.jpg)
 
 - [gamedev_libraries](#junkyardgfx)
   - [System](#system)
@@ -203,6 +202,7 @@ Lib           | Title
 ------------- | -------------
 [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) | NVIDIA PhysX SDK 4
 [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3) | Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+[chriscamacho/bulletCapi](https://github.com/chriscamacho/bulletCapi) | C API for Bullet Physics 
 [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) | Newton Dynamics is an integrated solution for real time simulation of physics environments. http://www.newtondynamics.com
 [erincatto/Box2D](https://github.com/erincatto/Box2D) | Box2D is a 2D physics engine for games http://box2d.org
 [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) | A fast and lightweight 2D game physics library.
