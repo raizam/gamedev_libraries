@@ -63,6 +63,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [SDL](https://github.com/SDL-mirror/SDL) | Simple DirectMedia Layer
+[SFML](https://github.com/SFML/SFML) | Simple and Fast Multimedia Library
 [glfw](https://github.com/glfw/glfw) | A multi-platform library
 [gainput](https://github.com/jkuhlmann/gainput) | C++ input library for games
 [wgois/OIS](https://github.com/wgois/OIS) | Object oriented Input System https://wgois.github.io/OIS/
