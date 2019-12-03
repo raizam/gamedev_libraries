@@ -92,6 +92,7 @@ Lib           | Title
 [SergeyMakeev/smmalloc](https://github.com/SergeyMakeev/smmalloc) | Blazing fast memory allocator designed for video games 
 [plasma-umass/Mesh](https://github.com/SergeyMakeev/smmalloc) | A memory allocator that automatically reduces the memory footprint of C/C++ applications. 
 [rampantpixels/rpmalloc](https://github.com/rampantpixels/rpmalloc) | Public domain cross platform lock free thread caching 32-byte aligned memory allocator implemented in C 
+[microsoft/mimalloc](https://github.com/microsoft/mimalloc) | General purpose allocator with excellent performance characteristics.
 
 ### SIMD
 
