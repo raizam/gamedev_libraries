@@ -146,6 +146,7 @@ Lib           | Title
 [nicebyte/nicegraf](https://github.com/nicebyte/nicegraf) | An abstraction layer for low-level platform-specific graphics APIs. 
 [dr-soft/glbind](https://github.com/dr-soft/glbind) | Single file OpenGL API loader.
 [dr-soft/vkbind](https://github.com/dr-soft/vkbind) | Single file Vulkan API loader.
+[LukasBanana/LLGL](https://github.com/LukasBanana/LLGL) | Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal 
 
 ### Audio
 
