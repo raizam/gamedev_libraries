@@ -46,6 +46,7 @@ Lib           | Title
 
 Lib           | Title
 ------------- | -------------
+[Hypatia](https://github.com/dagostinelli/hypatia) | Pure C math library 2D/3D graphics. Seeks to be close to C89/C90 compliant for portability. 
 [g-truc/glm](https://github.com/g-truc/glm) | OpenGL Mathematics (GLM)
 [recp/cglm](https://github.com/recp/cglm) | Optimized OpenGL/Graphics Math (glm) for C
 [google/mathfu](https://github.com/google/mathfu) | C++ math library developed primarily for games focused on simplicity and efficiency.
