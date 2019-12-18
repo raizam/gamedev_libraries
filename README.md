@@ -1,22 +1,22 @@
-# gamedev_libraries
 
 A Collection of C/C++ libraries for game development
 
+<!-- TOC -->
 
-- [gamedev_libraries](#junkyardgfx)
-  - [System](#system)
+- [System](#system)
     - [Base](#base)
     - [Math](#math)
     - [Windowing/Inputs](#windowinginputs)
     - [Threading](#threading)
+    - [Memory Allocators](#memory-allocators)
+    - [SIMD](#simd)
+    - [Debugging](#debugging)
+    - [Plugin System/Reflection](#plugin-systemreflection)
+    - [Serialization](#serialization)
+- [Engine Components](#engine-components)
+    - [Rendering](#rendering)
     - [Audio](#audio)
     - [Networking](#networking)
-    - [SIMD](#simd)
-    - [Debug](#debugging)
-    - [Plugin systems/Reflection](#plugin-systemreflection)
-    - [Serialisation](#serialization)
-  - [Engine Components](#engine-components)
-    - [Rendering](#rendering)
     - [UI](#ui)
     - [Scenegraph](#scenegraph)
     - [ECS](#ecs)
@@ -24,11 +24,14 @@ A Collection of C/C++ libraries for game development
     - [Physics](#physics)
     - [Pathfinding](#pathfinding)
     - [Database](#database)
-  - [Asset Management](#asset-management)
+- [Asset Management](#asset-management)
     - [Meshes/Geometry](#meshesgeometry)
-    - [Importers/Exporters](#importersexporters)
+        - [Processing](#processing)
+        - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
-  - [Full-featured Game Engine/Frameworks](#full-featured-game-enginesframeworks)
+- [Full-featured Game Engines/Frameworks](#full-featured-game-enginesframeworks)
+
+<!-- /TOC -->
   
 ## System
 ### Base
