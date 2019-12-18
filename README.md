@@ -101,6 +101,7 @@ Lib           | Title
 ------------- | -------------
 [p12tic/libsimdpp](https://github.com/p12tic/libsimdpp) | Portable header-only zero-overhead C++ low level SIMD library
 [VcDevel/Vc](https://github.com/VcDevel/Vc) | SIMD Vector Classes for C++
+[nemequ/simde](https://github.com/nemequ/simde) | Implementations of SIMD instruction sets for systems which don't natively support them. 
 
 ### Debugging
 
