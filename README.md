@@ -193,6 +193,7 @@ Lib           | Title
 [idea4good/GuiLite](https://github.com/idea4good/GuiLite) | smallest UI framework for all platform & Docker -- 5k lines code 
 [littlevgl/lvgl](https://github.com/littlevgl/lvgl) | Graphics library to create an embedded GUI with easy-to-use graphical elements
 [wjakob/nanogui](https://github.com/wjakob/nanogui) | Minimalistic GUI library for OpenGL
+[https://github.com/randrew/layout](https://github.com/randrew/layout) | Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
 
 ### Scenegraph
 Lib           | Title
