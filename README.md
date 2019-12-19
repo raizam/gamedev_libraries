@@ -246,6 +246,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [symisc/unqlite](https://github.com/symisc/unqlite) | An Embedded NoSQL, Transactional Database Engine 
+[fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) | SQLite ORM light header only library for modern C++
 
 ## Asset Management
 
