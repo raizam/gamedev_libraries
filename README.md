@@ -115,6 +115,7 @@ Lib           | Title
 [easy_profiler](https://github.com/yse/easy_profiler) | Lightweight profiler library for c++
 [crosire/blink](https://github.com/crosire/blink) | A tool which allows you to edit source code of any Windows C++ project live at runtime 
 [ddovod/jet-live](https://github.com/ddovod/jet-live) | c++ hot code reload for linux and macos 
+[RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid) | Performance monitoring and benchmarking suite 
 
 ### Plugin System/Reflection
 
@@ -193,7 +194,7 @@ Lib           | Title
 [idea4good/GuiLite](https://github.com/idea4good/GuiLite) | smallest UI framework for all platform & Docker -- 5k lines code 
 [littlevgl/lvgl](https://github.com/littlevgl/lvgl) | Graphics library to create an embedded GUI with easy-to-use graphical elements
 [wjakob/nanogui](https://github.com/wjakob/nanogui) | Minimalistic GUI library for OpenGL
-[https://github.com/randrew/layout](https://github.com/randrew/layout) | Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
+[randrew/layout](https://github.com/randrew/layout) | Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
 
 ### Scenegraph
 Lib           | Title
