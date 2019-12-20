@@ -86,6 +86,7 @@ Lib           | Title
 [Freeeaky/fiber-job-system](https://github.com/Freeeaky/fiber-job-system) | Multi-Threaded Job System using Fibers
 [RichieSams/FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) |A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
 [JodiTheTigger/sewing](https://github.com/JodiTheTigger/sewing) | Small C API Multiplatform multithreaded fiber based job system
+[https://github.com/Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) | A minimal but powerful thread pool in ANSI C 
 
 ### Memory Allocators
 
