@@ -89,6 +89,7 @@ Lib           | Title
 [Pithikos/C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) | A minimal but powerful thread pool in ANSI C 
 [mbrossard/threadpool](https://github.com/mbrossard/threadpool) | A simple C Thread pool implementation 
 [tinycthread/tinycthread](https://github.com/tinycthread/tinycthread) | Small, portable implementation of the C11 threads API 
+[yohhoy/thread](https://gist.github.com/yohhoy/2223710) | C11 <threads.h> emulation library
 
 ### Memory Allocators
 
