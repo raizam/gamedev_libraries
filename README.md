@@ -219,7 +219,6 @@ Lib           | Title
 [buserror/libc3](https://github.com/buserror/libc3) | Lightweight C Scene Graph Library
 [guillaumeblanc/ozz-animation](https://github.com/guillaumeblanc/ozz-animation) | Open source c++ skeletal animation library and toolset
 [google/motive](https://github.com/google/motive) | A cross-platform, memory efficient, and performant animation system written in C++ 
-[chinedufn/skeletal-animation-system](https://github.com/chinedufn/skeletal-animation-system) | A standalone, stateless, dual quaternion based skeletal animation system built with interactive applications in mind 
 
 ### Physics
 
