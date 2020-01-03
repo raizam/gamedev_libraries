@@ -278,6 +278,7 @@ Lib           | Title
 [syoyo/tinygltf](https://github.com/syoyo/tinygltf) | Header only C++ Tiny glTF 2.0 loader. 
 [jkuhlmann/cgltf](https://github.com/jkuhlmann/cgltf) | Single-file glTF 2.0 parser written in C99
 [microsoft/glTF-SDK](https://github.com/microsoft/glTF-SDK) | glTF-SDK is a C++ Software Development Kit for glTF 
+[facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF) | A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format. 
 
 ### Texture Baking/Packing
 
