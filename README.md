@@ -135,6 +135,7 @@ Lib           | Title
 ------------- | -------------
 [felixguendling/cista](https://github.com/felixguendling/cista) | Simple C++ Serialization & Reflection. https://cista.rocks
 [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) | MessagePack implementation for C and C++ 
+[sheredom/json.h](https://github.com/sheredom/json.h) | json parser for C and C++ 
 
 ## Engine Components
 
