@@ -18,9 +18,8 @@ A Collection of C/C++ libraries for game development
     - [Audio](#audio)
     - [Networking](#networking)
     - [UI](#ui)
-    - [Scenegraph](#scenegraph)
     - [ECS](#ecs)
-    - [Animation](#animation)
+    - [Animation / Scenegraph](#animation--scenegraph)
     - [Physics](#physics)
     - [Pathfinding](#pathfinding)
     - [Database](#database)
@@ -201,12 +200,10 @@ Lib           | Title
 [wjakob/nanogui](https://github.com/wjakob/nanogui) | Minimalistic GUI library for OpenGL
 [randrew/layout](https://github.com/randrew/layout) | Single-file library for calculating 2D UI layouts using stacking boxes. Compiles as C99 or C++.
 
-### Scenegraph
-Lib           | Title
-------------- | -------------
-[buserror/libc3](https://github.com/buserror/libc3) | Lightweight C Scene Graph Library
+
 
 ### ECS
+
 Lib           | Title
 ------------- | -------------
 [skypjack/entt](https://github.com/skypjack/entt) | A fast and reliable entity-component system (ECS) and much more
@@ -215,13 +212,17 @@ Lib           | Title
 [discoloda/Diana](https://github.com/discoloda/Diana) | Entity Component system like Artemis implemented in C 
 [SanderMertens/reflecs](https://github.com/SanderMertens/reflecs) | Multithreaded entity component system written in C99 
 
-### Animation
+### Animation / Scenegraph
+
 Lib           | Title
 ------------- | -------------
+[buserror/libc3](https://github.com/buserror/libc3) | Lightweight C Scene Graph Library
 [guillaumeblanc/ozz-animation](https://github.com/guillaumeblanc/ozz-animation) | Open source c++ skeletal animation library and toolset
-[google/motive](https://github.com/google/motive) | A cross-platform, memory efficient, and performant animation system written in C++ http://google.github.io/motive/
+[google/motive](https://github.com/google/motive) | A cross-platform, memory efficient, and performant animation system written in C++ 
+[chinedufn/skeletal-animation-system](https://github.com/chinedufn/skeletal-animation-system) | A standalone, stateless, dual quaternion based skeletal animation system built with interactive applications in mind 
 
 ### Physics
+
 Lib           | Title
 ------------- | -------------
 [NVIDIAGameWorks/PhysX](https://github.com/NVIDIAGameWorks/PhysX) | NVIDIA PhysX SDK 4
@@ -239,6 +240,7 @@ Lib           | Title
 
 
 ### Pathfinding
+
 Lib           | Title
 ------------- | -------------
 [jps](https://github.com/fgenesis/jps) | Jump Point Search, public domain, single .h (Super fast pathfinding on uniform grids)
@@ -248,6 +250,7 @@ Lib           | Title
 
 
 ### Database
+
 Lib           | Title
 ------------- | -------------
 [symisc/unqlite](https://github.com/symisc/unqlite) | An Embedded NoSQL, Transactional Database Engine 
@@ -258,6 +261,7 @@ Lib           | Title
 ### Meshes/Geometry
 
 #### Processing
+
 Lib           | Title
 ------------- | -------------
 [libigl](https://github.com/libigl/libigl) | Simple C++ geometry processing library
@@ -269,6 +273,7 @@ Lib           | Title
 [google/draco](https://github.com/google/draco) | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. 
 
 #### Importers/Exporters
+
 
 Lib           | Title
 ------------- | -------------
