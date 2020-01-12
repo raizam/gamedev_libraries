@@ -43,6 +43,7 @@ Lib           | Title
 [RandyGaul/cute_headers](https://github.com/RandyGaul/cute_headers) | One-file C/C++ libraries with no dependencies, primarily used for games 
 [vurtun/mmx](https://github.com/vurtun/mmx) | single header libraries for C/C++ 
 [zpl-c/zpl](https://github.com/zpl-c/zpl) | Your C99 Powerkit 
+[niklas-ourmachinery/bitsquid-foundation](https://github.com/niklas-ourmachinery/bitsquid-foundation) | A minimalistic foundation library with functions for memory allocation, basic collections, etc. The library has been written with a data-oriented philosophy: POD structures are preferred over classes, flat arrays are the preferred data structure, etc. 
 
 ### Math
 
