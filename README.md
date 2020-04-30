@@ -28,7 +28,7 @@ A Collection of C/C++ libraries for game development
         - [Processing](#processing)
         - [Importers/Exporters](#importersexporters)
     - [Texture Baking/Packing](#texture-bakingpacking)
-- [Full-featured Game Engines/Frameworks](#full-featured-game-enginesframeworks)
+- [Frameworks](#frameworks)
 
 <!-- /TOC -->
   
@@ -300,7 +300,7 @@ Lib           | Title
 
 
 
-## Full-featured Game Engines/Frameworks
+## Frameworks
 
 Lib           | Title
 ------------- | -------------
@@ -309,12 +309,6 @@ Lib           | Title
 [floooh/oryol](https://github.com/floooh/oryol) | A small, portable and extensible C++ 3D coding framework
 [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) | The Forge Cross-Platform Rendering Framework PC, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4
 [mosra/magnum](https://github.com/mosra/magnum) | Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
-[septag/rizz](https://github.com/septag/rizz) | Tiny C11 game development framework 
-[mrDIMAS/DmitrysEngine](https://github.com/mrDIMAS/DmitrysEngine) | C99 cross-platform 3D game engine with absolute minimum of external dependencies
-[LumixEngine](https://github.com/nem0/LumixEngine) | 3D Game Engine https://github.com/nem0/lumixengine_data
-[rokups/rbfx](https://github.com/rokups/rbfx) | Game engine with extensive C# support and WYSIWYG editor. 
-[polymonster/pmtech](https://github.com/polymonster/pmtech) | Lightweight engine with powerful features that can be used for games and real-time graphics applications.
-[flingengine/FlingEngine](https://github.com/flingengine/FlingEngine) | A Vulkan game engine with a focus on data oriented design 
 
 
 
