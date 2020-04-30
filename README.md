@@ -160,6 +160,7 @@ Lib           | Title
 [dr-soft/vkbind](https://github.com/dr-soft/vkbind) | Single file Vulkan API loader.
 [LukasBanana/LLGL](https://github.com/LukasBanana/LLGL) | Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal 
 [zauonlok/renderer](https://github.com/zauonlok/renderer) | A shader-based software renderer written from scratch in C89
+[zeux/niagara](https://github.com/zeux/niagara) | A Vulkan renderer written from scratch on stream
 
 ### Audio
 
