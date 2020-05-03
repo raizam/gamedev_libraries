@@ -194,6 +194,7 @@ Lib           | Title
 Lib           | Title
 ------------- | -------------
 [svaarala/duktape](https://github.com/svaarala/duktape) | Duktape - embeddable Javascript engine with a focus on portability and compact footprint
+[GaijinEntertainment/daScript](https://github.com/GaijinEntertainment/daScript) | daScript - high-performance statically strong typed scripting language https://daScript.org
 
 ### UI
 
