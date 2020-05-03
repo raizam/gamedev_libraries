@@ -17,6 +17,7 @@ A Collection of C/C++ libraries for game development
     - [Rendering](#rendering)
     - [Audio](#audio)
     - [Networking](#networking)
+    - [Scripting](#scripting)
     - [UI](#ui)
     - [ECS](#ecs)
     - [Animation / Scenegraph](#animation--scenegraph)
@@ -188,6 +189,11 @@ Lib           | Title
 [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) | Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. Encryption.
 [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) | Single header library for writing non-blocking HTTP servers in C
 
+### Scripting
+
+Lib           | Title
+------------- | -------------
+[svaarala/duktape](https://github.com/svaarala/duktape) | Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 
 ### UI
 
