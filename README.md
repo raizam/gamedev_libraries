@@ -175,6 +175,7 @@ Lib           | Title
 [dr-soft/miniaudio](https://github.com/dr-soft/miniaudio) | Single file audio playback and capture library
 [portaudio](http://www.portaudio.com/) | PortAudio is a free, cross-platform, open-source, audio I/O library
 [resonance-audio](https://github.com/resonance-audio) | High fidelity spatial audio at scale.
+[Amplitude Audio SDK](https://amplitudeaudiosdk.com) | Free, cross-platform, open-source, data-driven audio engine designed with the needs of games in mind.
 
 ### Networking
 
